@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/genivan-rocha-dos-santos-6493a8191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/genivanrs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     
-    ![Snake animation](https://github.com/genivanrs/genivanrs/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/genivanrs/blob/output/github-contribution-grid-snake.svg)
     
   </div>
   
